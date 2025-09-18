@@ -2,6 +2,9 @@
 
 Backend service for a real-time polling application using Node.js, Express, PostgreSQL, Prisma, and Socket.IO.
 
+<img width="551" height="545" alt="image" src="https://github.com/user-attachments/assets/7b4bdc72-a6f7-44bd-9854-d2961b7fe313" />
+
+
 ## Features
 - Users: create and list
 - Polls: create, list, get with options and vote counts
